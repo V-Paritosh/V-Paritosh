@@ -1,4 +1,4 @@
-# <div align="center">About Me:</div>
+# <div align="center">I'm Paritosh Vaghasiya, a Frontend Developer from Chicago, IL</div> 
 - 🔭 I’m currently working on: BPA Website Team
 - 🌱 I’m currently learning: Python and React
 
